@@ -35,13 +35,44 @@ public interface ORSView {
 	public String FACULTY_LIST_VIEW = PAGE_FOLDER + "/FacultyListView.jsp";
 	public String SUBJECT_VIEW = PAGE_FOLDER + "/SubjectView.jsp";
 	public String SUBJECT_LIST_VIEW = PAGE_FOLDER + "/SubjectListView.jsp";
-	public String TIMETABLE_VIEW = PAGE_FOLDER + "/TimeTableView.jsp";
-	public String TIMETABLE_LIST_VIEW = PAGE_FOLDER + "/TimeTableListView.jsp";
+	public String TIMETABLE_VIEW = PAGE_FOLDER + "/TimetableView.jsp";
+	public String TIMETABLE_LIST_VIEW = PAGE_FOLDER + "/TimetableListView.jsp";
 	public String ERROR_VIEW = PAGE_FOLDER + "/ErrorView.jsp";
+	public String BANK_VIEW = PAGE_FOLDER + "/BankView.jsp";
+	public String BANK_LIST_VIEW = PAGE_FOLDER + "/BankListView.jsp";
+	public String ABC_LIST_VIEW = PAGE_FOLDER + "/AbcListView.jsp";
+	public String ABC_VIEW = PAGE_FOLDER + "/AbcView.jsp";
+	public String DOCTOR_VIEW = PAGE_FOLDER + "/DoctorView.jsp";
+	public String DOCTOR_LIST_VIEW = PAGE_FOLDER + "/DoctorListView.jsp";
+
+	public String PRODUCT_VIEW = PAGE_FOLDER + "/ProductView.jsp";
+	public String PRODUCT_LIST_VIEW = PAGE_FOLDER + "/ProductListView.jsp";
+	public String CAR_VIEW = PAGE_FOLDER + "/CarView.jsp";
+	public String CAR_LIST_VIEW = PAGE_FOLDER + "/CarListView.jsp";
+	public String FIELD_VIEW = PAGE_FOLDER + "/FieldView.jsp";
+
+	public String FIELD_LIST_VIEW = PAGE_FOLDER + "/FieldListView.jsp";
+	public String TRANSACTION_VIEW = PAGE_FOLDER + "/TransactionView.jsp";
+
+	public String TRANSACTION_LIST_VIEW = PAGE_FOLDER + "/TransactionListView.jsp";
+
+	public String CUSTOMERS_VIEW = PAGE_FOLDER + "/CustomersView.jsp";
+
+	public String CUSTOMERS_LIST_VIEW = PAGE_FOLDER + "/CustomersListView.jsp";
+	
+	public String SALARY_VIEW = PAGE_FOLDER + "/SalaryView.jsp";
+
+	public String SALARY_LIST_VIEW = PAGE_FOLDER + "/SalaryListView.jsp";
+
+	
+	
+
 	// public String ERROR_VIEW5 = PAGE_FOLDER + "/ErrorView5.jsp";
 
 	public String MARKSHEET_CTL = APP_CONTEXT + "/ctl/MarksheetCtl";
 	public String MARKSHEET_LIST_CTL = APP_CONTEXT + "/ctl/MarksheetListCtl";
+	public String BANK_CTL = APP_CONTEXT + "/ctl/BankCtl";
+	public String BANK_LIST_CTL = APP_CONTEXT + "/ctl/BankListCtl";
 	public String USER_CTL = APP_CONTEXT + "/ctl/UserCtl";
 	public String USER_LIST_CTL = APP_CONTEXT + "/ctl/UserListCtl";
 	public String COLLEGE_CTL = APP_CONTEXT + "/ctl/CollegeCtl";
@@ -65,8 +96,28 @@ public interface ORSView {
 	public String FACULTY_LIST_CTL = APP_CONTEXT + "/ctl/FacultyListCtl";
 	public String SUBJECT_CTL = APP_CONTEXT + "/ctl/SubjectCtl";
 	public String SUBJECT_LIST_CTL = APP_CONTEXT + "/ctl/SubjectListCtl";
-	public String TIMETABLE_CTL = APP_CONTEXT + "/ctl/TimeTableCtl";
-	public String TIMETABLE_LIST_CTL = APP_CONTEXT + "/ctl/TimeTableListCtl";
+	public String TIMETABLE_CTL = APP_CONTEXT + "/ctl/TimetableCtl";
+	public String TIMETABLE_LIST_CTL = APP_CONTEXT + "/ctl/TimetableListCtl";
 	public String ERROR_CTL = APP_CONTEXT + "/ErrorCtl";
+	public String DOCTOR_CTL = APP_CONTEXT + "/ctl/DoctorCtl";
+	public String DOCTOR_LIST_CTL = APP_CONTEXT + "/ctl/DoctorListCtl";
+	public String PRODUCT_CTL = APP_CONTEXT + "/ctl/ProductCtl";
+	public String PRODUCT_LIST_CTL = APP_CONTEXT + "/ctl/ProductListCtl";
+	public String CAR_CTL = APP_CONTEXT + "/ctl/CarCtl";
+	public String CAR_LIST_CTL = APP_CONTEXT + "/ctl/CarListCtl";
+	public String FIELD_CTL = APP_CONTEXT + "/ctl/FieldCtl";
+	public String FIELD_LIST_CTL = APP_CONTEXT + "/ctl/FieldListCtl";
+	public String ABC_LIST_CTL = APP_CONTEXT + "/ctl/ABCListCtl";
+	public String ABC_CTL = APP_CONTEXT + "/ctl/ABCCtl";
+	public String TRANSACTION_LIST_CTL = APP_CONTEXT + "/ctl/TransactionListCtl";
+	public String TRANSACTION_CTL = APP_CONTEXT + "/ctl/TransactionCtl";
+
+	public String CUSTOMERS_CTL = APP_CONTEXT + "/ctl/CustomersCtl";
+	public String CUSTOMERS_LIST_CTL = APP_CONTEXT + "/ctl/CustomersListCtl";
+	
+	public String SALARY_CTL = APP_CONTEXT + "/ctl/SalaryCtl";
+
+	public String SALARY_LIST_CTL = APP_CONTEXT + "/ctl/SalaryListCtl";
+
 
 }

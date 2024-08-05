@@ -83,6 +83,14 @@ public class DataUtility {
 			return 0;
 		}
 	}
+	
+	public static Long getLong2(String val) {
+		if (DataValidator.isLong(val)) {
+			return Long.parseLong(val);
+		} else {
+			return null;
+		}
+	}
 
 	/**
 	 * Converts String into Date

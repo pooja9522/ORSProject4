@@ -1,3 +1,106 @@
+Skip to content
+Navigation Menu
+Product
+Solutions
+Open Source
+Enterprise
+Pricing
+
+Search or jump to...
+Sign in
+Sign up
+pooja9522
+/
+ORSProject4
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+Files
+Go to file
+webapp content loaded
+ORS_Project4
+.settings
+doc
+src/main
+java/com/rays
+pro4
+proj4/Test
+CollegeModelTest.java
+Coursetest.java
+FacultyTest.java
+MarksheetTest.java
+RoleTest.java
+StudentTest.java
+SubjectTest.java
+TimeTableTest.java
+UserTest.java
+resources
+webapp
+WEB-INF
+doc
+img
+js
+jsp
+ChangePasswordView.jsp
+CollegeListView.jsp
+CollegeView.jsp
+CourseListView.jsp
+CourseView.jsp
+ErrorView.jsp
+ErrorView404.jsp
+FacultyListView.jsp
+FacultyView.jsp
+Footer.jsp
+ForgetPasswordView.jsp
+GetMarksheetView.jsp
+Header.jsp
+LoginView.jsp
+MarksheetListView.jsp
+MarksheetMeritListView.jsp
+MarksheetView.jsp
+MyProfileView.jsp
+RoleListView.jsp
+RoleView.jsp
+StudentListView.jsp
+StudentView.jsp
+SubjectListView.jsp
+SubjectView.jsp
+TimeTableListView.jsp
+TimeTableView.jsp
+UserListView.jsp
+UserRegistrationView.jsp
+UserView.jsp
+Welcome.jsp
+resources
+script-dir
+index.jsp
+.classpath
+.gitignore
+.project
+.tern-project
+pom.xml
+README.md
+BreadcrumbsORSProject4/ORS_Project4/src/main/webapp/jsp
+/TimeTableView.jsp
+Latest commit
+pooja9522
+pooja9522
+done
+a980021
+ · 
+3 weeks ago
+History
+File metadata and controls
+
+Code
+
+Blame
+188 lines (153 loc) · 5.97 KB
 <%@page import="com.rays.pro4.controller.TimetableCtl"%>
 <%@page import="java.util.LinkedHashMap"%>
 <%@page import="com.rays.pro4.Util.HTMLUtility"%>
@@ -186,3 +289,4 @@
 	<%@include file="Footer.jsp" %>
 </body>
 </html>
+ORSProject4/ORS_Project4/src/main/webapp/jsp/TimeTableView.jsp at main · pooja9522/ORSProject4 · GitHub

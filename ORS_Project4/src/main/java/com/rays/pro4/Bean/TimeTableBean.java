@@ -3,7 +3,7 @@ package com.rays.pro4.Bean;
 import java.util.Date;
 
 /**
- * TimeTable JavaBean encapsulates TimeTable attributes.
+ * st_timetable JavaBean encapsulates st_timetable attributes.
  * 
  * @author Pooja Jawariya
  *

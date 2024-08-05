@@ -1,6 +1,7 @@
 package com.rays.pro4.Bean;
 
 import java.sql.Timestamp;
+
 import java.util.Date;
 
 /**
